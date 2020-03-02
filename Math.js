@@ -7,12 +7,6 @@ var X
 
 X = numOne / numTwo + numThree / numOne - numFour % numFour
 
+X = (numOne / numTwo) + (numThree / numOne) - numFour % numFour
+
 console.log(X)
-
-console.log(numOne + numTwo * numThree);
-
-console.log(numOne + (numTwo * numThree));
-
-console.log((numOne + numTwo) * numThree);
-
-console.log(numOne * numThree + numTwo * numThree);
